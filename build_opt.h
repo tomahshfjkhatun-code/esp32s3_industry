@@ -1,0 +1,1 @@
+-DUSE_ESP_IDF_LOG
