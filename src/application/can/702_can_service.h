@@ -56,4 +56,3 @@ private:
 };
 
 } // namespace ind::application::can
-
